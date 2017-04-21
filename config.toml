@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "A Hugo website"
 theme = "slim"
 googleAnalytics = ""
-disqusShortname = "scidev"
+disqusShortname = "scidev-rsm"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
